@@ -1,3 +1,3 @@
 # NAMX-project
 
-## cahier de charge : https://docs.google.com/document/d/1xEF8QGs0bIORQF2XGiV9wIGrG4DOiaaF5rjLpY030s0/edit
+## cahier de charge : https://docs.google.com/document/d/1E_jxd42_sbZlrZ06tCNs3PX0qCJbho5sczkjqNBGWEY/edit?usp=sharing
